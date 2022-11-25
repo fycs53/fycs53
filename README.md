@@ -2,7 +2,7 @@
 - 👀 I’m interested in cricket
 - 🌱 I’m currently learning github software
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me -- I live in New York in america
+- 📫 How to reach me -- I live in New York in United States of America
 
 <!---
 fycs53/fycs53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
